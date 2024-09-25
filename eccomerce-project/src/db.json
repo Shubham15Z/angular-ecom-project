@@ -1,0 +1,16 @@
+{
+  "seller": [
+    {
+      "id": "111a",
+      "name": "Ajay Bhan",
+      "email": "ajay@seller.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "4698",
+      "name": "Sachin Roy",
+      "email": "sachin@seller.com",
+      "password": "sachin@123"
+    }
+  ]
+}
