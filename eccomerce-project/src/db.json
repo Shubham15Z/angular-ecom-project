@@ -11,6 +11,42 @@
       "name": "Sachin Roy",
       "email": "sachin@seller.com",
       "password": "sachin@123"
+    },
+    {
+      "id": "e989",
+      "name": "Sujit",
+      "password": "sujit@123",
+      "email": "sujit@123"
+    },
+    {
+      "id": "78b0",
+      "name": "Peter",
+      "password": "peter@123",
+      "email": "peter@test.com"
+    },
+    {
+      "id": "f6f1",
+      "name": "Bruce",
+      "password": "bruce@123",
+      "email": "bruce@test.com"
+    },
+    {
+      "id": "74a0",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "6e8d",
+      "name": "John",
+      "password": "john@123",
+      "email": "john@test.com"
+    },
+    {
+      "id": "d54e",
+      "name": "Manoj",
+      "password": "manoj@123",
+      "email": "manoj@test.com"
     }
   ]
 }
